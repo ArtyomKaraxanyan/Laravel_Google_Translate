@@ -1,0 +1,70 @@
+<!doctype html>
+<body>
+<option name="sq" value="sq">Albanian</option>
+<option name="hy" value="hy">Armenia</option>
+<option name="af" value="af">Afrikaans</option>
+<option name="am" value="am">Amharic</option>
+<option name="ar" value="ar">Arabic</option>
+<option name="an" value="an">Aragonese</option>
+<option name="as" value="as">Assamese</option>
+<option name="ae" value="ae">Avestan</option>
+<option name="ay" value="ay">Aymara</option>
+<option name="ba" value="ba">Bashkir</option>
+<option name="eu" value="eu">Basque</option>
+<option name="be" value="be">Belarusian</option>
+<option name="bn" value="bn">Bengali</option>
+<option name="bh" value="bh">Bihari</option>
+<option name="bi" value="bi">Bislama</option>
+<option name="br" value="br">Breton</option>
+<option name="bg" value="bg">Bulgarian</option>
+<option name="my" value="my">Burmese</option>
+<option name="ca" value="ca">Catalan</option>
+<option name="ch" value="ch">Chamorro</option>
+<option name="ce" value="ce">Chechen</option>
+<option name="zh" value="zh">Chinese</option>
+<option name="cv" value="cv">Chuvash</option>
+<option name="kw" value="kw">Cornish</option>
+<option name="co" value="co">Corsican</option>
+<option name="hr" value="hr">Croatian</option>
+<option name="da" value="da">Danish</option>
+<option name="nl" value="nl">Dutch</option>
+<option name="dz" value="dz">Dzongkha</option>
+<option name="en" value="en">English</option>
+<option name="eo" value="eo">Esperanto</option>
+<option name="et" value="et">Estonian</option>
+<option name="fo" value="fo">Faroese</option>
+<option name="fj" value="fj">Fijian</option>
+<option name="fi" value="fi">Finnish</option>
+<option name="fr" value="fr">French</option>
+<option name="gl" value="gl">Galician</option>
+<option name="ka" value="ka">Georgian</option>
+<option name="de" value="de">German</option>
+<option name="el" value="el">Greek</option>
+<option name="gn" value="gn">Guarani</option>
+<option name="gu" value="gu">Gujarati</option>
+<option name="ht" value="ht">Haitian</option>
+<option name="ha" value="ha">Hausa</option>
+<option name="he" value="he">Hebrew</option>
+<option name="hz" value="hz">Herero</option>
+<option name="hi" value="hi">Hindi</option>
+<option name="hu" value="hu">Hungarian</option>
+<option name="ga" value="ga">Irish</option>
+<option name="it" value="it">Italian</option>
+<option name="ja" value="ja">Japanese</option>
+<option name="jv" value="jv">Javanese</option>
+<option name="kn" value="kn">Kannada</option>
+<option name="kk" value="kk">Kazakh</option>
+<option name="ko" value="ko">Korean</option>
+<option name="la" value="la">Latin</option>
+<option name="mk" value="mk">Macedonian</option>
+<option name="mo" value="mo">Moldavian</option>
+<option name="ne" value="ne">Nepali</option>
+<option name="pl" value="pl">Polish</option>
+<option name="pt" value="pt">Portuguese</option>
+<option name="ro" value="ro">Romanian</option>
+<option name="ru" value="ru">Russian</option>
+<option name="uk" value="uk">Ukrainian</option>
+
+
+
+</body>
